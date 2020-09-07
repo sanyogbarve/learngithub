@@ -1,3 +1,7 @@
 main(){
     log.info("This is master branch code.");
+
+    function feature(){
+        log.info("This is feature branch code.");
+    }
 }
