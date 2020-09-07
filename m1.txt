@@ -3,5 +3,7 @@ main(){
 
     function feature(){
         log.info("This is feature branch code.");
+    function master(){
+        log.info("Function added to master");
     }
 }
