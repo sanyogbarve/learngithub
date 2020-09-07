@@ -1,3 +1,7 @@
 main(){
     log.info("This is master branch code.");
+
+    function master(){
+        log.info("Function added to master");
+    }
 }
