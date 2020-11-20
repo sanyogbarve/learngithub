@@ -6,4 +6,6 @@ main(){
     function master(){
         log.info("Function added to master");
     }
+
+    log.info("Line 1 added");
 }
