@@ -8,4 +8,6 @@ main(){
     }
 
     log.info("Line 1 added");
+
+    log.info("Line 2 added");
 }
